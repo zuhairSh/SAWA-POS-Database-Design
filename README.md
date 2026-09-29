@@ -8,9 +8,9 @@ A comprehensive Database Schema Design for an integrated system managing retail 
 The system is built on a normalized relational database model designed to ensure data integrity and scalable operational workflow management.
 
 ### Entity Relationship Diagram (ERD)
-![Operational Retail Database Schema](POS System Schema.drawio.png)
+![Operational Retail Database Schema](SawaPOS_Schema.drawio.png)
 
-> **📥 High-Resolution Resource:** For detailed analysis, you can download the full-scale [Database Schema (PDF)](POS System Schema.drawio (2).pdf).
+> **📥 High-Resolution Resource:** For detailed analysis, you can download the full-scale [Database Schema (PDF)](SawaPOS_Schema.drawio.pdf).
 
 ---
 
