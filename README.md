@@ -10,7 +10,7 @@
 
 ### 🗄️ مخطط الكيانات والعلاقات (ERD)
 
-![Operational Retail Database Schema](SawaPOS_Schema.drawio.png)
+![Operational Retail Database Schema](SawaPOS_Schema.drawio.pdf)
 
 > **📥 ملف عالي الدقة:** للاطلاع على التحليل والتفاصيل الهندسية الكاملة، يمكنك تنزيل المخطط بالحجم الكامل: **[مخطط قاعدة البيانات (PDF)](SawaPOS_Schema.drawio.pdf)**.
 
